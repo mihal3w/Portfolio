@@ -20,4 +20,4 @@ This is my personal portfolio website built with HTML, CSS, and JavaScript. It i
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOURUSERNAME/REPOSITORYNAME.git
+   git clone https://github.com/mihal3w/portfolio.git
